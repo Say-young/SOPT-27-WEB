@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/*이렇게 변수화 해서 한번에 모든 컬러를 바꿔주는 방법은 없을까??*/
 .root {
   --background: #ffffff;
   --input: #f3f3f3;
