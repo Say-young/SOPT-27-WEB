@@ -4,6 +4,7 @@ const API_URL = "https://api.github.com/users/";
 const main = document.getElementById("main");
 const form = document.getElementById("form");
 const input = document.getElementById("input");
+const toggle = document.getElementById("toggle");
 
 //submit 이벤트가 발생할 경우 작동되는 함수
 form.addEventListener("submit", (event) => {
