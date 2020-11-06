@@ -6,4 +6,5 @@
 |Week|Seminar Contents|Done|
 |:--:|:--------------:|:--:|
 |1|HTML/CSS, JavaScript 기본 문법|✔|
-|2|VanillaJS||
+|2|VanillaJS|✔|
+|3|React 기본|✔|
