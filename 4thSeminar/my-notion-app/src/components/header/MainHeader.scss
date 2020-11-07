@@ -1,0 +1,22 @@
+.main-header {
+    display: flex;
+    border: solid 1px;
+    height: 20px;
+    padding: 12px;
+    font-size: 14px;
+    align-items: center;
+
+    // .main-header__icon
+    &__icon {
+        height: 100%;
+        margin-right:12px;
+    }
+
+    &__nav {
+        display: flex; //화면 크기를 줄이면 flex 속성을 준 요소만 움직인다.
+    }
+
+    .empty {
+        flex: 1; //유동적
+    }
+}
