@@ -8,4 +8,6 @@
 |1|HTML/CSS, JavaScript 기본 문법|✔|
 |2|VanillaJS|✔|
 |3|React 기본|✔|
-|4|My Notion App||
+|4|My Notion App|✔|
+|5|합동세미나 - SpaceCloud|✔|
+|6|My Notion App - Server|✔|
